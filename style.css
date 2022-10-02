@@ -48,7 +48,7 @@ body{
 .footerNav li a{
     color: white;
     text-decoration: none;
-    font-size: 17px;
+    font-size: 22px;
 
 }
 
@@ -84,18 +84,18 @@ h1{
 }
 
 h2{
-    font-size: 35px;
+    font-size: 38px;
     font-family: 'Merriweather';
 }
 
 
 h3{
-    font-size: 27px;
+    font-size: 32px;
     font-family: 'Merriweather';
 }
 p{
    font-family: "Source Sans Pro";
-    font-size: 17px;
+    font-size: 22px;
     font-weight: 300;
     line-height: 32px;
 }
@@ -103,7 +103,7 @@ p{
 a{
     font-family: "Source Sans Pro";
     font-weight: 300;
-    font-size: 17px;
+    font-size: 22px;
     padding: 16px 14px;
     display:inline-block;
 }
@@ -116,7 +116,7 @@ header{
 
 
 .nav1{
-background-color: rgb(12, 14, 15);
+background-color: #0c0e0f;
 padding: 10px;
 margin-bottom: 2em;
 }
@@ -139,12 +139,12 @@ margin-bottom: 2em;
 .nav1 li a{
     color: white;
     text-decoration: none;
-    font-size: 17px;
+    font-size: 22px;
 }
 
 .nav1 li a:hover{
     background:black;
-    color: aqua;
+    color: #00ffff;
     padding:14px 16px;
     border-radius: 15%;
 }
@@ -160,7 +160,7 @@ text-decoration: underline;
 
 
 .button{
-    background-color: rgb(9, 115, 214);
+    background-color: #0973d6;
     color: white;
     padding: 16px 14px;
     border-radius: 15%;
@@ -308,7 +308,7 @@ li {
 }
 
 .contact{
-    color: greenyellow;
+    color: #7ED957;
 }
 
 
